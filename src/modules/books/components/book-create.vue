@@ -21,7 +21,7 @@
 <script lang="ts">
 import Vue from 'vue'
 import { Component } from 'vue-property-decorator'
-import bookService from '@/modules/books/serviecs/book.service'
+import bookService from '@/modules/books/services/book.service'
 import Book from '@/modules/books/models/book'
 
 @Component({})
